@@ -1,1 +1,1 @@
-<a href="https://bakhoriddin.github.io/pig-game/">pig-game</a>
+<a href="https://bakhoriddin.github.io/pig-game/" target='_blank'>pig-game</a>
